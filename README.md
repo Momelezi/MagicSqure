@@ -1,1 +1,1 @@
-# MagicSqure
+# MagicSquare
